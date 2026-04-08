@@ -1,0 +1,18 @@
+{
+  "name": "dry",
+  "description": "Analyzes session interactions and recommends repeatable patterns for automation via skills, hooks, sub-agents, or slash commands",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fahad Mustafa"
+  },
+  "homepage": "https://github.com/fahadmustafa/dry-claude-plugin",
+  "repository": "https://github.com/fahadmustafa/dry-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "patterns",
+    "automation",
+    "DRY",
+    "skills",
+    "productivity"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dry-claude-plugin",
+  "version": "1.0.0",
+  "description": "Analyzes Claude Code session interactions and recommends repeatable patterns for automation via skills, hooks, sub-agents, or slash commands",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fahadmustafa/dry-claude-plugin"
+  },
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "patterns",
+    "automation",
+    "DRY",
+    "skills",
+    "productivity"
+  ]
+}
