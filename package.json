@@ -1,6 +1,6 @@
 {
   "name": "dry-claude-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Analyzes Claude Code session interactions and recommends repeatable patterns for automation via skills, hooks, sub-agents, or slash commands",
   "license": "MIT",
   "repository": {
