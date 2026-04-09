@@ -1,6 +1,7 @@
 ---
 name: analyze
 description: "Use when you want to identify repeatable patterns in your current Claude Code session that could be automated as skills, hooks, sub-agents, or slash commands."
+user-invocable: true
 ---
 
 # DRY Session Analyzer
