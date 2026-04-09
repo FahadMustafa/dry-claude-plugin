@@ -18,10 +18,11 @@ For each pattern, it recommends the best automation mechanism (skill, hook, sub-
 
 ## Installation
 
-### From GitHub
+### From marketplace
 
 ```bash
-claude plugin install fahadmustafa/dry-claude-plugin
+claude plugin marketplace add fahadmustafa/claude-plugins
+claude plugin install dry@fahadmustafa-plugins
 ```
 
 ### For development
